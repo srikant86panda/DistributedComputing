@@ -39,9 +39,7 @@ $ ./RicartAgrawala 1 localhost 4003
 Terminal 4
 $ ./RicartAgrawala 1 localhost 4004
 
-----------
-LOG FILES:
-----------
+# LOG FILES:
 * There are no seperate log files maintained. The output is shown on the cosole.
   At the runtime, the output can also be redirected to another output file or log file,
   one for each process.
